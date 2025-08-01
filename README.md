@@ -92,8 +92,3 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=nabeelsyed11&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=nabeelsyed11&icon=0&color=0" alt="Profile Visit Counter" />
-  </a>
-</p>

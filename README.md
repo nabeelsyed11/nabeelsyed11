@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/syed-ahmed-64052a32a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="[https://fb.com/syed nabeel ahmed](https://www.facebook.com/profile.php?id=100041793710234)" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100041793710234" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/nabeelsyed_" target="_blank">

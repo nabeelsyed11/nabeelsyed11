@@ -11,7 +11,7 @@
 🌱 **Learning:** Embedded Systems, Machine Learning, and more  
 💬 **Ask me about:** Python, C, Embedded C  
 📫 **How to reach me:** nabeelahmedna7860@gmail.com  
-📄 **Know more:** [My Resume & Experiences](https://syednabeelahmed.tiiny.site)  
+📄 **Know more:** [My Resume & Experiences](https://nabeelsyed.tiiny.site/)  
 ⚡ **Fun fact:** I think I am creative!  
 
 ---

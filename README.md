@@ -70,10 +70,6 @@
 
 ---
 
-<p align="center">
-![snake gif](https://github.com/nabeelsyed11/nabeelsyed11/blob/output/github-snake-dark.svg)
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -96,5 +92,6 @@
 
 ---
 
+![snake gif](https://github.com/nabeelsyed11/nabeelsyed11/blob/output/github-snake-dark.svg)
 
 

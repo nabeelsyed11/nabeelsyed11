@@ -3,9 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&color=C0C0C0&size=25&pause=2000&lines=%20%20%20%20Hey!+It's+Syed+Nabeel+Ahmed+!+A+passionate+Engineer+👨🏻‍💻;%20%20%20%20A+Passionate+Engineer+👨🏻‍💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&color=C0C0C0&size=30&pause=2000&center=true&vCenter=true&lines=Hey!+It's+Syed+Nabeel+Ahmed+!+A+passionate+Engineer+👨🏻‍💻;A+Passionate+Engineer+%26+Lifelong+Learner+from+India+👨🏻‍💻;" />
 </div>
-
 
 
 <p align="center">

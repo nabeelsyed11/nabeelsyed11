@@ -3,11 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&color=C0C0C0&size=15&lines=Hey!+It's+Syed+Nabeel+Ahmed+!+A+passionate+Engineer+👨🏻‍💻;+A+Passionate+Engineer&+Lifelong+Learner+from+India+👨🏻‍💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&color=C0C0C0&size=30&lines=Hey!+It's+Syed+Nabeel+Ahmed+!+A+passionate+Engineer+👨🏻‍💻;+A+Passionate+Engineer&+Lifelong+Learner+from+India+👨🏻‍💻;" />
 </div>
 
-
-<h3 align="center">A Passionate Engineer & Lifelong Learner from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabeelsyed11&label=Profile%20views&color=0e75b6&style=flat" alt="nabeelsyed11" />

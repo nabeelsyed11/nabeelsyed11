@@ -2,9 +2,10 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&color=C0C0C0&size=20&lines=Hey!+It's+Syed+Nabeel+Ahmed+!;Python+Developer👨🏻‍💻;" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&color=C0C0C0&size=20&lines=Hey!+It's+Syed+Nabeel!;Python+Developer👨🏻‍💻;" />
+</div>
+
 
 <h3 align="center">A Passionate Engineer & Lifelong Learner from India</h3>
 

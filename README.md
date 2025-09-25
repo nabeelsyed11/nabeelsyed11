@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&color=C0C0C0&size=20&lines=Hey!+It's+Syed+Nabeel+Ahmed+!+An+Engineer+ 👨🏻‍💻;+A+Passionate+Engineer+&+Lifelong+Learner+from+India+👨🏻‍💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&color=C0C0C0&size=20&lines=Hey!+It's+Syed+Nabeel+Ahmed+!+A+passionate+Engineer+👨🏻‍💻;+A+Passionate+Engineer+&+Lifelong+Learner+from+India+👨🏻‍💻;" />
 </div>
 
 

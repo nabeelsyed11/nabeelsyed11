@@ -22,7 +22,8 @@
 
 📄 **Know more:** [My Resume & Experiences](https://nabeelsyed.tiiny.site/)
 
-⚡ **Fun fact:** I think I am creative!  
+⚡ **Fun fact:** I think I am creative! 
+
 <\div>
 
 ---

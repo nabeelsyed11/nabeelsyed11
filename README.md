@@ -14,6 +14,7 @@
 <div align="centre">
 🔭 **Currently:** Pursuing Electronics and Communication Engineering
 
+
 🌱 **Learning:** Embedded Systems, Machine Learning, and more
 
 💬 **Ask me about:** Python, C, Embedded C 

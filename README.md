@@ -15,7 +15,7 @@
 🔭 **Currently:** Pursuing Electronics and Communication Engineering  
 🌱 **Learning:** Embedded Systems, Machine Learning, and more  
 💬 **Ask me about:** Python, C, Embedded C  
-📫 **How to reach me:** [https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png](nabeelahmedna7860@gmail.com)
+📫 **How to reach me:** [📧](nabeelahmedna7860@gmail.com)
 📄 **Know more:** [My Resume & Experiences](https://nabeelsyed.tiiny.site/)  
 ⚡ **Fun fact:** I think I am creative!  
 

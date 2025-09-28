@@ -29,8 +29,6 @@
 </div>
 </i>
 
-<i>A curated list of awesome Github Profile READMEs</i>
-
 ---
 
 ## 🌐 Connect with Me

@@ -11,6 +11,7 @@
 </p>
 
 ---
+<i>
 <div align="centre">
 
 🔭 **Currently:** Pursuing Electronics and Communication Engineering.
@@ -26,6 +27,9 @@
 ⚡ **Fun fact:** I think I am creative! 
 
 </div>
+</i>
+
+<i>A curated list of awesome Github Profile READMEs</i>
 
 ---
 

@@ -196,8 +196,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabeelsyed11&theme=transparent&show_icons=true" alt="Syed Nabeel's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=nabeelsyed11&theme=github-dark-blue" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed11&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=nabeelsyed11&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed11&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 </p>

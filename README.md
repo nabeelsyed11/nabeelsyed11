@@ -200,7 +200,7 @@
   <img src="https://streak-stats.demolab.com/?user=nabeelsyed11&theme=transparent" alt="GitHub Streak" />
   <br />
    <a href="https://github.com/nabeelsyed11/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed11&layout=donut" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed11&layout=donut&theme=transparent" alt="Top Languages" />
   </a>
 </p>
 

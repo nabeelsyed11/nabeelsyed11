@@ -24,7 +24,7 @@
 
 💬 **Ask me about:** Python, C, Embedded C  
 
-📫 **How to reach me:** [📧](mailto:nabeelahmedna7860@gmail.com)  
+📫 **How to reach me:**  [📧](mailto:nabeelahmedna7860@gmail.com)  
 
 📄 **Know more:** [My Resume & Experiences](https://nabeelsyed.tiiny.site/)  
 

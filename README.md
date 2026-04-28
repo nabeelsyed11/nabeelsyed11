@@ -228,7 +228,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelsyed11&theme=vision-friendly-dark&show_icons=true)" />
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelsyed11&theme=github_dark&show_icons=true)" />
 </p>
 
 ---

@@ -214,7 +214,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabeelsyed11&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nabeelsyed11&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
 ---

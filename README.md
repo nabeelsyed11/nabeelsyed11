@@ -228,7 +228,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nabeelsyed11&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="![Syed Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelsyed11&theme=github_dark&show_icons=true)" />
 </p>
 
 ---

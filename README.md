@@ -225,7 +225,9 @@
 
 ### 🔝 Top Contributed Repo
 
-
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nabeelsyed11&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 

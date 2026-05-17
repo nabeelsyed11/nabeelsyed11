@@ -227,24 +227,8 @@
 ---
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-      <picture>
-        <source
-          srcset="./assets/github-stats.svg"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="./assets/github-stats.svg"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="./assets/github-stats.svg" alt="GitHub Stats" />
-      </picture>
-    </p><br/>
-    <p align="center">
-      <a href="https://github.com/nabeelsyed11">
-        <img src="./assets/github-streak.svg" alt="NabeelSyed's Streak Stats Chart" />
-      </a>
-    </p><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nabeelsyed11&theme=transparent&short_numbers=true&exclude_days=Sat)](https://git.io/streak-stats)
 
 ---
 

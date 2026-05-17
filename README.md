@@ -195,7 +195,11 @@
 ## 📊 GitHub Stats
 
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=nabeelsyed11&theme=transparent&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
+
+</div>
 
 ---
 

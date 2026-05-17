@@ -228,8 +228,23 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=YOUR_USERNAME) />
-</p>
+      <picture>
+        <source
+          srcset="./assets/github-stats.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="./assets/github-stats.svg"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+      </picture>
+    </p><br/>
+    <p align="center">
+      <a href="https://github.com/FrancoStino">
+        <img src="./assets/github-streak.svg" alt="FrancoStino's Streak Stats Chart" />
+      </a>
+    </p><br/>
 
 ---
 

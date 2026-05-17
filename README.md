@@ -228,7 +228,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="GET https://github-contribution-card.vercel.app/api?username=nabeelsyed11" />
+  <img src="![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=YOUR_USERNAME) />
 </p>
 
 ---

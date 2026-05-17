@@ -241,8 +241,8 @@
       </picture>
     </p><br/>
     <p align="center">
-      <a href="https://github.com/FrancoStino">
-        <img src="./assets/github-streak.svg" alt="FrancoStino's Streak Stats Chart" />
+      <a href="https://github.com/nabeelsyed11">
+        <img src="./assets/github-streak.svg" alt="NabeelSyed's Streak Stats Chart" />
       </a>
     </p><br/>
 

@@ -194,15 +194,8 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelsyed11&theme=transparent&show_icons=true" alt="Syed Nabeel's GitHub stats" />
-  <br />
-<p[![GitHub Streak](https://streak-stats.demolab.com?user=nabeelsyed11&theme=transparent&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats) />
-  <br />
-   <a href="https://github.com/nabeelsyed11/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed11&layout=donut&theme=transparent" alt="Top Languages" />
-  </a>
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nabeelsyed11&theme=transparent&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
 
 ---
 

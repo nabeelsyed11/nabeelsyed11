@@ -65,11 +65,9 @@
 
 ## 📈 Activity Graph
 
-<div align="center">
 <p align="center">
   <img src="https://raw.githubusercontent.com/nabeelsyed11/nabeelsyed11/output/activity.svg" alt="GitHub Activity Graph" />
 </p>
-</div>
 
 ## 🏆 GitHub Trophies
 

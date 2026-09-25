@@ -7,6 +7,12 @@ on:
   push:
     branches: [main]
 
+# The snake workflow also publishes to output. Serialize both publishers so
+# they cannot reject each other's non-fast-forward push.
+concurrency:
+  group: profile-output-publisher
+  cancel-in-progress: false
+
 permissions:
   contents: write
 

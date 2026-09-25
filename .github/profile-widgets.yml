@@ -1,0 +1,33 @@
+name: Generate profile widgets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate live profile widgets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: nabeelsyed11
+        run: python3 .github/scripts/generate-profile-widgets.py
+
+      - name: Publish widgets to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./generated-widgets
+          keep_files: true
+          commit_message: "Update live profile widgets [skip ci]"

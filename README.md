@@ -62,29 +62,25 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nabeelsyed11&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub contribution streak" /></a>
 </div>
 
+
 ## 📈 Activity Graph
 
-<div align="center">
-  <a href="https://github.com/nabeelsyed11">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeelsyed11&bg_color=0d1117&color=87ceeb&line=2f81f7&point=ffffff&area=true&hide_border=true&radius=8" alt="Syed's GitHub activity graph" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nabeelsyed11/nabeelsyed11/output/activity.svg" alt="GitHub Activity Graph" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/nabeelsyed11">
-    <img src="https://github-profile-trophy.vercel.app/?username=nabeelsyed11&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nabeelsyed11/nabeelsyed11/output/trophies.svg" alt="GitHub Trophies" />
+</p>
 
-## 🔝 Top Contributed Repositories
+### 🔝 Top Contributed Repo
 
-<div align="center">
-  <a href="https://github.com/nabeelsyed11">
-    <img src="https://github-contributor-stats.vercel.app/api?username=nabeelsyed11&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top contributed repositories" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nabeelsyed11/nabeelsyed11/output/top-repositories.svg" alt="Top Contributed Repositories" />
+</p>
+
 
 ## ✍️ Random Developer Quote
 

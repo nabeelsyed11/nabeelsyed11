@@ -9,9 +9,12 @@
         <clipPath id="circle-clip">
             <circle cx="50" cy="50" r="50" />
         </clipPath>
-        <clipPath id="card-clip">
-            <rect width="100%" height="100%" rx="16" />
+        <clipPath id="center-clip">
+            <circle cx="90" cy="90" r="90" />
         </clipPath>
+        <path id="orbit1" d="M 120 0 A 120 40 0 1 1 -120 0 A 120 40 0 1 1 120 0" />
+        <path id="orbit2" d="M 180 0 A 180 60 0 1 1 -180 0 A 180 60 0 1 1 180 0" />
+        <path id="orbit3" d="M 250 0 A 250 80 0 1 1 -250 0 A 250 80 0 1 1 250 0" />
     </defs>
 
     
@@ -33,31 +36,45 @@
             <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite" />
         </circle>
         
-        <!-- Orbits -->
-        <ellipse cx="0" cy="0" rx="120" ry="40" fill="none" stroke="#30363d" stroke-width="1.5" transform="rotate(30)" />
-        <ellipse cx="0" cy="0" rx="180" ry="60" fill="none" stroke="#30363d" stroke-width="1.5" transform="rotate(-30)" />
-        <ellipse cx="0" cy="0" rx="250" ry="80" fill="none" stroke="#30363d" stroke-width="1.5" transform="rotate(10)" />
+        <!-- Orbit 1 -->
+        <g transform="rotate(30)">
+            <use href="#orbit1" fill="none" stroke="#30363d" stroke-width="1.5" />
+            <g>
+                <animateMotion dur="8s" repeatCount="indefinite">
+                    <mpath href="#orbit1" />
+                </animateMotion>
+                <g transform="rotate(-30)">
+                    <circle cx="0" cy="0" r="14" fill="#161b22" stroke="#a78bfa" stroke-width="2"/>
+                    <text x="0" y="4" class="font-sans text-main" font-size="10" text-anchor="middle">AI</text>
+                </g>
+            </g>
+        </g>
         
-        <!-- Orbiting items -->
-        <g>
-            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite" />
-            <g transform="translate(120, 0)">
-                <circle cx="0" cy="0" r="12" fill="#161b22" stroke="#a78bfa" stroke-width="2"/>
-                <text x="0" y="4" class="font-sans text-main" font-size="10" text-anchor="middle">AI</text>
+        <!-- Orbit 2 -->
+        <g transform="rotate(-30)">
+            <use href="#orbit2" fill="none" stroke="#30363d" stroke-width="1.5" />
+            <g>
+                <animateMotion dur="12s" repeatCount="indefinite">
+                    <mpath href="#orbit2" />
+                </animateMotion>
+                <g transform="rotate(30)">
+                    <circle cx="0" cy="0" r="16" fill="#161b22" stroke="#f472b6" stroke-width="2"/>
+                    <text x="0" y="4" class="font-sans text-main" font-size="10" text-anchor="middle">PLC</text>
+                </g>
             </g>
         </g>
-        <g>
-            <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="15s" repeatCount="indefinite" />
-            <g transform="translate(180, 0)">
-                <circle cx="0" cy="0" r="14" fill="#161b22" stroke="#f472b6" stroke-width="2"/>
-                <text x="0" y="4" class="font-sans text-main" font-size="10" text-anchor="middle">PLC</text>
-            </g>
-        </g>
-        <g>
-            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
-            <g transform="translate(250, 0)">
-                <circle cx="0" cy="0" r="16" fill="#161b22" stroke="#22d3ee" stroke-width="2"/>
-                <text x="0" y="4" class="font-sans text-main" font-size="10" text-anchor="middle">DEV</text>
+        
+        <!-- Orbit 3 -->
+        <g transform="rotate(10)">
+            <use href="#orbit3" fill="none" stroke="#30363d" stroke-width="1.5" />
+            <g>
+                <animateMotion dur="16s" repeatCount="indefinite">
+                    <mpath href="#orbit3" />
+                </animateMotion>
+                <g transform="rotate(-10)">
+                    <circle cx="0" cy="0" r="18" fill="#161b22" stroke="#22d3ee" stroke-width="2"/>
+                    <text x="0" y="4" class="font-sans text-main" font-size="10" text-anchor="middle">DEV</text>
+                </g>
             </g>
         </g>
     </g>
